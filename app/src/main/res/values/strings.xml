@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LatihanConstraintLayou</string>
+    <string name="harga_produk">Rp 10.999.000</string>
+    <string name="nama_produk">Samsung Galaxy Z Flip 4</string>
+    <string name="deskripsi_produk">  ~ Abadikan kehidupan dengan perspektif baru \n  ~ Sudut terbaik Anda dengan FlexCam \n  ~ Dapat disesuaikan sesuka hati Anda \n  ~ Bagian dalam dan luar yang tahan lama \n  ~ Unfold your world</string>
+    <string name="penjual">Penjual : </string>
+    <string name="namaku">Fathimatus Zahrotun Nisa </string>
+    <string name="button_beli">Beli</string>
+</resources>
